@@ -1,0 +1,1 @@
+export const logo = 'https://www.freepik.com/free-vector/gradient-printing-house-logo-template_33068038.htm#fromView=search&page=1&position=0&uuid=06c9c86b-6c2c-4f6b-b352-4f7ffae75cf2'
